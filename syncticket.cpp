@@ -2,7 +2,7 @@
 *
 * This program provides a sync-ticket system.
 *
-* How to compile: g++ -o simulation.o 2017400081.cpp -lpthread
+* How to compile: g++ -o simulation.o syncticket.cpp -lpthread
 * How to run: ./simulation.o config_path output_path
 *
 * Sevde Sarıkaya
